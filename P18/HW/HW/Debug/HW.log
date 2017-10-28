@@ -1,0 +1,5 @@
+﻿  main.c
+d:\0各科作業\高階程式語言\homework\hw3\p18\source\main.c(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+  HW.vcxproj -> D:\0各科作業\高階程式語言\Homework\HW3\P18\HW\Debug\HW.exe
+  HW.vcxproj -> D:\0各科作業\高階程式語言\Homework\HW3\P18\HW\Debug\HW.pdb (Partial PDB)
